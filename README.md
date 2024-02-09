@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Enes..
+   ### Hi there 👋 I'm Enes..
 
 
 
-- 🔭 I’m currently working on a full time job and at the same time
+- 🔭 I'm a paramedic who wants to have a career in software engineering. I am trying to learn and understand the world of different coding languages.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me:
  www.linkedin.com/in/kemalenesyalcin
